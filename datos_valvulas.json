@@ -1,0 +1,66 @@
+{
+    "vs13": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs14": {
+        "estado": "Mantenimiento/Reparación",
+        "historial": []
+    },
+    "vs15": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs16": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs17": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs18": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs19": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs20": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs21": {
+        "estado": "Mantenimiento/Reparación",
+        "historial": []
+    },
+    "vs22": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs23": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs24": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs25": {
+        "estado": "Abierta",
+        "historial": []
+    },
+    "vs26": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs27": {
+        "estado": "Cerrada",
+        "historial": []
+    },
+    "vs29": {
+        "estado": "Abierta",
+        "historial": []
+    }
+}
