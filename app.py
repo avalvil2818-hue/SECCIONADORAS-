@@ -212,8 +212,8 @@ def inicio():
     posiciones = {
 
         "vs27": (497, 202, 550, 237),
-        "vs29": (733, 121, 784, 156),
-        "vs19": (824, 200, 875, 235),
+        "vs29": (725, 204, 777, 242),
+        "vs19": (914, 198, 967, 236),
         "vs23": (596, 455, 626, 536),
         "vs13": (550, 457, 579, 534),
         "vs20": (908, 535, 960, 572),
@@ -224,9 +224,9 @@ def inicio():
         "vs26": (136, 374, 170, 427),
         "vs17": (228, 85, 278, 119),
         "vs22": (355, 127, 390, 180),
-        "vs25": (905, 120, 959, 153),
+        "vs25": (1048, 161, 1100, 199),
         "vs21": (229, 327, 281, 362),
-        "vs18": (967, 28, 1001, 83),
+        "vs18": (896, 26, 947, 61),
 
     }
 
@@ -553,17 +553,34 @@ def inicio():
                         alt="Urea 2"
                         title="Urea 2"
                         href=""
-                        coords="835,52,871,128"
+                        coords="832,51,879,166"
                         shape="rect"
                     >
 
                     <area
-                        alt="Dirección"
-                        title="Dirección"
+                        alt="Dirección de operaciones"
+                        title="Dirección de operaciones"
                         href=""
                         coords="454,120,657,173"
                         shape="rect"
                     >
+
+<area
+    alt="Muelle"
+    title="Muelle"
+    href=""
+    coords="998,48,1150,119"
+    shape="rect">
+
+
+ 
+<area
+    alt="Entrada sur"
+    title="Entrada sur"
+    href=""
+    coords="38,542,96,635"
+    shape="rect">
+    
 
                 </map>
 
