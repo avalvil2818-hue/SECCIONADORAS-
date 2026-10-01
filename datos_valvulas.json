@@ -16,7 +16,7 @@
         "historial": []
     },
     "vs17": {
-        "estado": "Cerrada",
+        "estado": "Abierta",
         "historial": []
     },
     "vs18": {
@@ -32,11 +32,11 @@
         "historial": []
     },
     "vs21": {
-        "estado": "Mantenimiento/Reparación",
+        "estado": "Abierta",
         "historial": []
     },
     "vs22": {
-        "estado": "Cerrada",
+        "estado": "Abierta",
         "historial": []
     },
     "vs23": {
@@ -56,7 +56,7 @@
         "historial": []
     },
     "vs27": {
-        "estado": "Cerrada",
+        "estado": "Abierta",
         "historial": []
     },
     "vs29": {

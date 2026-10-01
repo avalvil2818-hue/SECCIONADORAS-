@@ -24,7 +24,7 @@ CORREO_DESTINO = os.environ.get(
 )
 CORREO_PASSWORD = os.environ.get(
     "DTI_CORREO_PASSWORD",
-    ""
+    "kbbt stcz kloy dhoe"
 )
 
 
@@ -45,17 +45,17 @@ estados_iniciales = {
     "vs14": "Mantenimiento/Reparación",
     "vs15": "Cerrada",
     "vs16": "Cerrada",
-    "vs17": "Cerrada",
+    "vs17": "Abierta",
     "vs18": "Abierta",
     "vs19": "Abierta",
     "vs20": "Abierta",
-    "vs21": "Mantenimiento/Reparación",
-    "vs22": "Cerrada",
+    "vs21": "Abierta",
+    "vs22": "Abierta",
     "vs23": "Abierta",
     "vs24": "Abierta",
     "vs25": "Abierta",
     "vs26": "Cerrada",
-    "vs27": "Cerrada",
+    "vs27": "Abierta",
     "vs29": "Abierta",
 }
 
@@ -575,8 +575,8 @@ def inicio():
 
  
 <area
-    alt="Entrada sur"
-    title="Entrada sur"
+    alt="Portada 1"
+    title="Portada 1"
     href=""
     coords="38,542,96,635"
     shape="rect">
