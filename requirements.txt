@@ -5,4 +5,4 @@ pillow
 flask_sqlalchemy
 psycopg2-binary
 PyMySQL
-
+scikit-learn
