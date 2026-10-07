@@ -90,9 +90,13 @@ REGLAS_ALARMA = {
         "combinaciones": [
 
              ["vs16", "vs15", "vs21", "vs22", "vs27"],
-             ["vs16", "vs15", "vs26", "vs22", "vs27"],
+             ["vs26", "vs13", "vs21", "vs22", "vs27"],
+             ["vs17", "vs13", "vs22", "vs27"],
+             ["vs16", "vs15", "vs17", "vs22", "vs27"],
              ["vs16", "vs14", "vs21", "vs22", "vs27"],
-             ["vs16", "vs14", "vs21", "vs18", "vs29"],
+             ["vs14", "vs18", "vs29"],
+            ["vs20", "vs14"],
+
             # ["vsXX"],
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
@@ -115,6 +119,13 @@ REGLAS_ALARMA = {
     "Esferas": {
         "combinaciones": [
             ["vs16", "vs26", "vs15", "vs14"],
+            ["vs13", "vs26", "vs15", "vs16"],
+            ["vs17", "vs22", "vs27", "vs14"],
+            ["vs17", "vs22", "vs27", "vs13"],
+            ["vs14", "vs18", "vs29"],
+            ["vs20", "vs14"],
+
+        
 
             # Agregar otras combinaciones si se confirman
             # ["vsXX", "vsXX"],
@@ -140,6 +151,10 @@ REGLAS_ALARMA = {
             ["vs17", "vs15", "vs22", "vs27","vs16","vs21"],
             ["vs17", "vs14", "vs22", "vs27"],
             ["vs16", "vs15", "vs21", "vs22", "vs27"],
+            ["vs16", "vs14", "vs21", "vs22", "vs27"],
+            [ "vs14", "vs18", "vs29"],
+            ["vs20", "vs14"],
+
             # ["vsXX"],
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
@@ -162,8 +177,12 @@ REGLAS_ALARMA = {
     "Caldera 1": {
         "combinaciones": [
 
-            ["vs27", "vs22", "vs17", "vs15", "vs26"],
-            ["vs27", "vs22", "vs17", "vs15", "vs14"],
+            ["vs27", "vs22", "vs17", "vs15", "vs26", "vs16"],
+            ["vs27", "vs22", "vs17", "vs14"],
+            ["vs14", "vs18", "vs19"],
+            ["vs20", "vs18", "vs19"],
+            ["vs20", "vs14"],
+            
             # ["vsXX"],
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
@@ -187,6 +206,8 @@ REGLAS_ALARMA = {
         "combinaciones": [
             ["vs16", "vs26", "vs14"],
             ["vs17", "vs14", "vs22", "vs27"],
+            [ "vs14", "vs18", "vs29"],
+            ["vs20", "vs14"],
 
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
@@ -210,6 +231,7 @@ REGLAS_ALARMA = {
             ["vs19", "vs29"],
             ["vs20", "vs29","vs18"],
             ["vs23", "vs29","vs18"],
+            ["vs20", "vs14"],
 
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
@@ -234,6 +256,7 @@ REGLAS_ALARMA = {
             ["vs19", "vs29"],
             ["vs20", "vs29","vs18"],
             ["vs23", "vs29","vs18"],
+            ["vs20", "vs14"],
 
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
@@ -257,6 +280,7 @@ REGLAS_ALARMA = {
             ["vs19", "vs29"],
             ["vs20", "vs29","vs18"],
            ["vs23", "vs29","vs18"],
+            ["vs20", "vs14"],
 
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
@@ -281,6 +305,9 @@ REGLAS_ALARMA = {
             ["vs21", "vs17","vs26", "vs15", "vs27", "vs22" ],
             ["vs21", "vs17","vs26", "vs14", "vs27", "vs22" ],
             ["vs21", "vs17","vs26", "vs16", "vs27", "vs22" ],
+            [ "vs14", "vs18", "vs29"],
+            ["vs20", "vs14"],
+
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
 
@@ -305,7 +332,8 @@ REGLAS_ALARMA = {
             ["vs20","vs27", "vs22", "vs17"],
             ["vs19","vs27", "vs22", "vs17", "vs18" ],
             ["vs19","vs27", "vs22", "vs17", "vs20" ],
-            ["vs13","vs20"],
+            ["vs20", "vs14"],
+
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
         ],
@@ -327,6 +355,10 @@ REGLAS_ALARMA = {
         "combinaciones": [
 
             ["vs27", "vs22", "vs17", "vs18","vs29"],
+            [ "vs14", "vs18", "vs29"],
+            [ "vs15","vs16","vs26", "vs18", "vs29"],
+            ["vs20", "vs14"],
+
             # ["vsXX"],
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
@@ -350,6 +382,9 @@ REGLAS_ALARMA = {
         "combinaciones": [
             ["vs24"],
             ["vs23", "vs20"],
+            ["vs23", "vs19", "vs18"],
+            ["vs23", "vs29", "vs18"],
+            
 
             # Posibles combinaciones adicionales
             # ["vsXX", "vsXX"],
@@ -373,6 +408,8 @@ REGLAS_ALARMA = {
 
              ["vs23", "vs20"],
              ["vs13", "vs20","vs23"],
+             ["vs23", "vs19", "vs18"],
+             ["vs23", "vs29", "vs18"],
             # ["vsXX"],
             # ["vsXX", "vsXX"],
             # ["vsXX", "vsXX", "vsXX"],
