@@ -11,7 +11,7 @@ USUARIO=os.environ.get("DTI_USUARIO","admin")
 CLAVE=os.environ.get("DTI_CLAVE","1234")
 CORREO_REMITENTE=os.environ.get("DTI_CORREO_REMITENTE","avalvil2818@gmail.com")
 CORREO_DESTINO=os.environ.get("DTI_CORREO_DESTINO","avalvil2818@gmail.com")
-CORREO_PASSWORD=""
+CORREO_PASSWORD="pbgb wsvn pnzf wmhm"
 
 CARPETA_APP=os.path.dirname(os.path.abspath(__file__))
 ARCHIVO_DATOS=os.path.join(CARPETA_APP,"datos_valvulas.json")
